@@ -79,7 +79,7 @@ function App() {
       .mint(blockchain.account, _amount)
       .send({
         gasLimit: '285000',
-        to: '0x928cbde2368354d3a02db4f0ebf877bd3df14f5f', //change this
+        to: '0x8406da8f31af28122e99a7b2882997d3f572fb9f', //change this
         from: blockchain.account,
         value: blockchain.web3.utils.toWei(
           (0.05 * _amount).toString(),
@@ -201,8 +201,8 @@ function App() {
                          getData()
                       }}
                     >
-                      Disabled until Oct 13th
-                      {/* CONNECT WALLET */}
+                      CONNECT WALLET
+                     
                     </StyledButton>
                     {blockchain.errorMsg !== '' ? (
                       <>
@@ -223,8 +223,8 @@ function App() {
                          getData()
                       }}
                     >
-                       Disabled until Oct 13th
-                      { {claimingNft ,'Busy...' : 'Buy 1 NFT'} }
+                       
+                       {claimingNft ? "Busy..." : "Buy 1 NFT"}
                     </StyledButton>
                   </s.Container>
                 )}

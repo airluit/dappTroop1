@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/dappTroop1/static/css/main.b45e7820.chunk.css",
+    "main.js": "/dappTroop1/static/js/main.bde9245d.chunk.js",
+    "main.js.map": "/dappTroop1/static/js/main.bde9245d.chunk.js.map",
+    "runtime-main.js": "/dappTroop1/static/js/runtime-main.f4414455.js",
+    "runtime-main.js.map": "/dappTroop1/static/js/runtime-main.f4414455.js.map",
+    "static/js/2.7212031d.chunk.js": "/dappTroop1/static/js/2.7212031d.chunk.js",
+    "static/js/2.7212031d.chunk.js.map": "/dappTroop1/static/js/2.7212031d.chunk.js.map",
+    "static/js/3.8114a2ca.chunk.js": "/dappTroop1/static/js/3.8114a2ca.chunk.js",
+    "static/js/3.8114a2ca.chunk.js.map": "/dappTroop1/static/js/3.8114a2ca.chunk.js.map",
+    "index.html": "/dappTroop1/index.html",
+    "static/css/main.b45e7820.chunk.css.map": "/dappTroop1/static/css/main.b45e7820.chunk.css.map",
+    "static/js/2.7212031d.chunk.js.LICENSE.txt": "/dappTroop1/static/js/2.7212031d.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/dappTroop1/static/media/1.75f03515.png",
+    "static/media/10.cba2e179.jpeg": "/dappTroop1/static/media/10.cba2e179.jpeg",
+    "static/media/24.5a7eba1f.jpeg": "/dappTroop1/static/media/24.5a7eba1f.jpeg",
+    "static/media/MintHere.60793082.png": "/dappTroop1/static/media/MintHere.60793082.png",
+    "static/media/reset.css": "/dappTroop1/static/media/PressStart2P-Regular.f2341734.woff",
+    "static/media/air.f60ca233.jpeg": "/dappTroop1/static/media/air.f60ca233.jpeg",
+    "static/media/bul.1a160292.jpg": "/dappTroop1/static/media/bul.1a160292.jpg",
+    "static/media/discord.f668bebe.jpg": "/dappTroop1/static/media/discord.f668bebe.jpg",
+    "static/media/goatTeaser.ed6cfc95.png": "/dappTroop1/static/media/goatTeaser.ed6cfc95.png",
+    "static/media/joe.1766ee63.jpg": "/dappTroop1/static/media/joe.1766ee63.jpg",
+    "static/media/mic.a101cf5d.jpg": "/dappTroop1/static/media/mic.a101cf5d.jpg",
+    "static/media/nft-calendar-transparent.c5ef49e5.png": "/dappTroop1/static/media/nft-calendar-transparent.c5ef49e5.png",
+    "static/media/open.e9ce90e0.png": "/dappTroop1/static/media/open.e9ce90e0.png",
+    "static/media/tin.c28cbdb5.jpg": "/dappTroop1/static/media/tin.c28cbdb5.jpg",
+    "static/media/troopBanner.9a1dccfd.png": "/dappTroop1/static/media/troopBanner.9a1dccfd.png",
+    "static/media/troopIfantryGray.7c090ef6.jpeg": "/dappTroop1/static/media/troopIfantryGray.7c090ef6.jpeg",
+    "static/media/twitterIcon.94db4a07.png": "/dappTroop1/static/media/twitterIcon.94db4a07.png",
+    "static/media/vin.818ea072.jpeg": "/dappTroop1/static/media/vin.818ea072.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4414455.js",
+    "static/js/2.7212031d.chunk.js",
+    "static/css/main.b45e7820.chunk.css",
+    "static/js/main.bde9245d.chunk.js"
+  ]
+}
