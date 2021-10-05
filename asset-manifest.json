@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dappTroop1/static/css/main.b45e7820.chunk.css",
-    "main.js": "/dappTroop1/static/js/main.7016ee80.chunk.js",
-    "main.js.map": "/dappTroop1/static/js/main.7016ee80.chunk.js.map",
+    "main.js": "/dappTroop1/static/js/main.427dfd05.chunk.js",
+    "main.js.map": "/dappTroop1/static/js/main.427dfd05.chunk.js.map",
     "runtime-main.js": "/dappTroop1/static/js/runtime-main.f4414455.js",
     "runtime-main.js.map": "/dappTroop1/static/js/runtime-main.f4414455.js.map",
-    "static/js/2.899858ef.chunk.js": "/dappTroop1/static/js/2.899858ef.chunk.js",
-    "static/js/2.899858ef.chunk.js.map": "/dappTroop1/static/js/2.899858ef.chunk.js.map",
+    "static/js/2.7212031d.chunk.js": "/dappTroop1/static/js/2.7212031d.chunk.js",
+    "static/js/2.7212031d.chunk.js.map": "/dappTroop1/static/js/2.7212031d.chunk.js.map",
     "static/js/3.8114a2ca.chunk.js": "/dappTroop1/static/js/3.8114a2ca.chunk.js",
     "static/js/3.8114a2ca.chunk.js.map": "/dappTroop1/static/js/3.8114a2ca.chunk.js.map",
     "index.html": "/dappTroop1/index.html",
     "static/css/main.b45e7820.chunk.css.map": "/dappTroop1/static/css/main.b45e7820.chunk.css.map",
-    "static/js/2.899858ef.chunk.js.LICENSE.txt": "/dappTroop1/static/js/2.899858ef.chunk.js.LICENSE.txt",
+    "static/js/2.7212031d.chunk.js.LICENSE.txt": "/dappTroop1/static/js/2.7212031d.chunk.js.LICENSE.txt",
     "static/media/1.75f03515.png": "/dappTroop1/static/media/1.75f03515.png",
     "static/media/10.cba2e179.jpeg": "/dappTroop1/static/media/10.cba2e179.jpeg",
     "static/media/24.5a7eba1f.jpeg": "/dappTroop1/static/media/24.5a7eba1f.jpeg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f4414455.js",
-    "static/js/2.899858ef.chunk.js",
+    "static/js/2.7212031d.chunk.js",
     "static/css/main.b45e7820.chunk.css",
-    "static/js/main.7016ee80.chunk.js"
+    "static/js/main.427dfd05.chunk.js"
   ]
 }
