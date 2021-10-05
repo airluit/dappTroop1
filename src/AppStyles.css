@@ -1,0 +1,14 @@
+.header-text {
+    background-color: #313639;
+    padding: 50px 0 ;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+
+.banner-img {
+    height: auto;
+    width: 100%;
+    max-width: 1200px;
+}

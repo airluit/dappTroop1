@@ -1,0 +1,92 @@
+h1 {
+  font-family: 'Verdana';
+  font-weight: bold;
+  color: black;
+}
+
+.teampage {
+  max-width: 800px;
+  margin: auto;
+}
+
+p {
+  padding-top: 10px;
+  font-family: verdana;
+  color: black;
+  /* line-height: 14px; */
+}
+
+.social-container {
+  display: grid;
+  padding: 10px 0 0;
+  justify-content: center;
+  grid-template-columns: 40px 1fr;
+  align-items: center;
+}
+
+.discord-icon {
+  width: 20px;
+  height: auto;
+}
+
+.social-name {
+  color: black;
+  text-align: left;
+}
+
+.gallery {
+  border: 1px solid transparent;
+  display: inline-table;
+  margin: 10px;
+  float: none;
+  width: 200px;
+}
+
+.goat-image {
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.bottom-socials {
+  flex: 1 1 auto;
+    display: flex;
+    align-items: end;
+}
+
+.desc {
+  min-height: 246px;
+  display: flex;
+  flex-flow: column;
+
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  background-color: #daa250;
+}
+
+.michelobsBox {
+  font-size: 16px;
+  padding: 10px;
+  text-align: center;
+  background-color: #daa250;
+}
+
+.bulgingBox {
+  font-size: 16px;
+  padding: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #daa250;
+}
+
+.NFTJoe {
+  font-size: 16px;
+  padding: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  background-color: #daa250;
+}

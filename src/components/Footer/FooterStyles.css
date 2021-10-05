@@ -1,0 +1,51 @@
+.footer-wrapper {
+  font-family: Verdana;
+  height: 100px;
+  background-color: #313639;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  box-shadow: 0px 1px 9px rgb(0 0 0 / 20%);
+  z-index: 1;
+  justify-content: center;
+  align-self: center;
+}
+
+.infantry-icon {
+  height: 50px;
+  margin: 10px 0 0;
+}
+
+.nft-icon {
+  height: 50px;
+  padding-left: 10px;
+  margin: 10px 0 0;
+  color: white;
+}
+
+.terms-footer-wrapper {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.terms-footer {
+  color: white;
+  font-size: 10px;
+}
+
+.terms-icons {
+    display: flex;
+    justify-content: center;
+    height: auto;
+    align-items: center;
+}
+
+.terms {
+    margin: auto;
+    color: white;
+}
