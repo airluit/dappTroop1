@@ -76,7 +76,7 @@ function App() {
     setFeedback('Preparing your Troop NFT for deployment...')
     setClaimingNft(true)
     blockchain.smartContract.methods
-      .mint(blockchain.account, _amount)
+      .mint( _amount)
       .send({
         //gasLimit: '400000',
         to: '0x9599711604f40F2E048a1799dF6cc577213cAa53', //change this
