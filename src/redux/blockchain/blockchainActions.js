@@ -1,7 +1,7 @@
 // constants
 import Web3EthContract from "web3-eth-contract";
 import Web3 from "web3";
-import SmartContract from "../../contracts/goatTroopNFT.json";
+import SmartContract from "../../contracts/goat100.json";
 // log
 import { fetchData } from "../data/dataActions";
 
@@ -54,7 +54,7 @@ export const connect = () => {
         if (networkId == 4) {
           const SmartContractObj = new Web3EthContract(
             SmartContract,
-            "0x12b8Ced00AD7d5f5e5713281dFaB4337de6e2c9b" //change
+            "0x9599711604f40F2E048a1799dF6cc577213cAa53" //change
           );
           dispatch(
             connectSuccess({
