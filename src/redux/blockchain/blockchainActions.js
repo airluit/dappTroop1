@@ -1,7 +1,7 @@
 // constants
 import Web3EthContract from "web3-eth-contract";
 import Web3 from "web3";
-import SmartContract from "../../contracts/goat100.json";
+import SmartContract from "../../contracts/goatTest100.json";
 // log
 import { fetchData } from "../data/dataActions";
 
